@@ -1,7 +1,7 @@
 package DecideYourJob;
 
 /*
- * 수정
+ * 수정!
  */
 public class Ax implements Weapon{
 	public void weapon() {
