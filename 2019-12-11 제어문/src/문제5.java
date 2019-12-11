@@ -1,6 +1,6 @@
 
 /*
- * while
+ * whiledd
  */
 public class ¹®Á¦5 {
 
