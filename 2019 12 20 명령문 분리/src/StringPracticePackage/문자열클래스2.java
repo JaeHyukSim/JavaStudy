@@ -7,6 +7,7 @@ import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Single;
 public class 문자열클래스2 {
 
 	static boolean isLogin(String id,String pwd) {
+		
 		boolean bCheck = false;
 		final String ID = "admin";
 		final String PWD = "1234";
