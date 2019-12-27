@@ -24,7 +24,7 @@ public class GetMousePos extends JFrame{
 		
 		contentPane.setBackground(Color.YELLOW);
 		
-		label.setBounds(5,30,100,30);
+		label.setBounds(0,0,100,30);
 		contentPane.add(label);
 		setBounds(0,0,1080,1080);
 		setVisible(true);
